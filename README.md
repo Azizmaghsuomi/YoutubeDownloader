@@ -8,7 +8,7 @@
    ابتدا پروژه را از GitHub کلون کنید:
    
    ```bash
-   git clone https://github.com/yourusername/YoutubeDownlader.git
+   git clone https://github.com/Azizmaghsuomi/YoutubeDownlader.git
    cd YoutubeDownlader
   ## ایجاد محیط مجازی
 
