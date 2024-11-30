@@ -13,12 +13,12 @@
   ## ایجاد محیط مجازی
 
 برای ایجاد محیط مجازی پایتون دستور زیر را اجرا کنید:
-
-python -m venv .venv
+````bash
+python -m venv .venv 
 ## فعال‌سازی محیط مجازی 
 
-## در ویندوز:
-.\.venv\Scripts\activate
+## در ویندوز: 
+ .\.venv\Scripts\activate
 ## در مک یا لینوکس:
 source .venv/bin/activate
 
